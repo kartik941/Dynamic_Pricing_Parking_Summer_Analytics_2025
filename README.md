@@ -25,7 +25,6 @@ Real-time simulation was implemented using **Pathway**, and pricing behaviors ar
 | `Python 3.x`    | Core programming language             |
 | `NumPy`         | Numerical computations                |
 | `Pandas`        | Data preprocessing & manipulation     |
-| `Pathway`       | Real-time data streaming simulation   |
 | `Bokeh`         | Interactive visualizations in Colab   |
 | `Google Colab`  | Cloud-based development environment   |
 
